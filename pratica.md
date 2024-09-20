@@ -66,3 +66,5 @@ A **Tech**, uma empresa de desenvolvimento de software, busca melhorar seus proc
 A implementação das práticas DevOps na Tech deverá levar a uma maior eficiência nos processos de entrega, um aumento na qualidade do código e uma cultura de colaboração entre as equipes. As métricas estabelecidas permitirão avaliar o impacto das mudanças, e o compartilhamento de conhecimento garantirá a continuidade do aprendizado e melhorias.
 
 
+
+
