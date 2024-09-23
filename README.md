@@ -1,2 +1,2 @@
 # project01-devops-rocket
-Repositório criado para a prática do primeiro desafio do curso de DevOps.
+Repositório criado para a prática do curso de DevOps.
